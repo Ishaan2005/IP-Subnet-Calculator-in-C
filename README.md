@@ -1,4 +1,4 @@
-# IP Subnet Calculator (CIDR) – C Language
+# IP Subnet Calculator – C Language
 
 This project is a lightweight **IP Subnet Calculator** written in **C**, designed to compute key network parameters using **CIDR notation** (e.g., `192.168.1.0/24`).
 
